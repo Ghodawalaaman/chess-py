@@ -1,0 +1,6 @@
+ROOK = 0
+BISHOP = 1
+PAWN = 2
+KNIGHT = 3
+QUEEN = 4
+KING = 5
